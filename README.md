@@ -18,19 +18,13 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuthoYRN&show_icons=true&theme=radical" alt="Lutho's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthoYRN&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthoYRN&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthoYRN&layout=compact&langs_count=8&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LuthoYRN&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthoYRN&theme=radical" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -40,10 +34,6 @@
   <a href="https://www.linkedin.com/in/lutho-mngqibisa/"><img src="https://img.shields.io/badge/-Lutho%20Mngqibisa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:luthoyrn@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/LuthoYRN"><img src="https://img.shields.io/badge/-@LuthoYRN-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuthoYRN&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
