@@ -18,13 +18,9 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthoYRN&layout=compact&langs_count=8&theme=radical" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LuthoYRN&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthoYRN&theme=radical" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthoYRN&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
