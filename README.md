@@ -13,7 +13,7 @@
 <h3 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,flask,spring,c,cs,html,css,linux,postgres,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,expressjs,flask,spring,c,cs,html,css,linux,postgres,mysql,postman" />
 </div>
 
 ---
