@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Lutho+Mngqibisa!;Software+Engineer...;Digital+Innovator...;Code+Craftsman...;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Software Engineer-green?style=for-the-badge" alt="Software Engineer Badge"/>
-  <img src="https://img.shields.io/badge/Digital Innovator-blue?style=for-the-badge" alt="Digital Innovator Badge"/>
-  <img src="https://img.shields.io/badge/Code Craftsman-red?style=for-the-badge" alt="Code Craftsman Badge"/>
-</div>
-
 ---
 
 <h3 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h3>
